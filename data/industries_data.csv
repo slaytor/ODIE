@@ -1,0 +1,488 @@
+Code,Title,2016 Employment,2016 % of Industry,2016 % of Occupation,2026 Employment,2026 % of Industry,2026 % of Occupation,Change (%),Change (#),Level,Type
+110000,"Agriculture, forestry, fishing and hunting",5894.2,4.7,11.1,5929.6,4.7,10.9,0.6,35.6,2.0,Summary
+111000,Crop production,3747.2,2.1,2.8,3856.1,2.1,2.9,2.9,107.7,3.0,Line item
+112000,Animal production and aquaculture,2201.2,2.6,2.8,2155.2,2.6,2.7,-2.1,-47.7,3.0,Line item
+113000,Forestry and logging,305.4,5.7,4.3,257.2,5.6,4.0,-15.8,-47.7,3.0,Summary
+1131-2,Forestry,68.0,7.6,1.1,73.0,7.6,1.2,7.4,4.5,4.0,Line item
+113300,Logging,245.9,6.1,3.7,193.8,6.1,3.3,-21.2,-51.7,4.0,Line item
+114000,"Fishing, hunting and trapping",73.7,8.0,1.3,78.8,8.0,1.3,6.9,4.5,3.0,Line item
+115000,Support activities for agriculture and forestry,597.0,2.8,1.8,643.4,2.8,1.9,7.8,45.4,3.0,Line item
+210000,"Mining, quarrying, and oil and gas extraction",2800.2,1.2,6.0,3203.6,1.2,6.1,14.4,402.6,2.0,Summary
+211000,Oil and gas extraction,794.3,1.6,1.7,945.5,1.6,1.8,19.0,150.0,3.0,Line item
+212000,Mining (except oil and gas),817.4,2.0,3.7,761.5,2.0,3.4,-6.8,-54.1,3.0,Summary
+212100,Coal mining,223.6,3.1,2.8,209.4,3.1,2.6,-6.4,-13.7,4.0,Line item
+212200,Metal ore mining,174.4,3.0,1.5,164.2,3.0,1.4,-5.8,-8.3,4.0,Line item
+212300,Nonmetallic mineral mining and quarrying,412.6,2.7,2.2,381.8,2.7,2.0,-7.5,-29.9,4.0,Line item
+213000,Support activities for mining,1178.7,1.6,2.9,1486.8,1.6,3.1,26.1,308.0,3.0,Line item
+220000,Utilities,2484.4,1.2,2.9,2497.8,1.2,2.8,0.5,15.0,2.0,Summary
+221000,Utilities,2484.4,1.2,2.9,2497.8,1.2,2.8,0.5,15.0,3.0,Summary
+221100,"Electric power generation, transmission and distribution",1772.6,1.4,2.5,1811.0,1.4,2.5,2.2,39.3,4.0,Summary
+221110,Electric power generation,709.4,1.7,1.6,723.3,1.7,1.6,2.0,14.6,5.0,Summary
+221111,Hydroelectric power generation,27.0,7.4,0.2,30.5,7.4,0.2,13.0,2.4,6.0,Line item
+221112,Fossil fuel electric power generation,412.3,1.9,0.7,369.2,1.9,0.6,-10.5,-41.7,6.0,Line item
+221113,Nuclear electric power generation,200.3,2.7,1.3,188.5,2.7,1.3,-5.9,-9.9,6.0,Line item
+221114,Solar electric power generation,10.7,8.0,0.0,25.8,8.1,0.1,141.1,15.7,6.0,Line item
+221115,Wind electric power generation,18.9,8.5,0.7,43.0,8.4,0.9,127.5,24.6,6.0,Line item
+221116,Geothermal electric power generation,4.2,23.0,0.2,7.7,22.9,0.3,83.3,4.0,6.0,Line item
+221117,Biomass electric power generation,5.8,21.3,0.2,16.4,21.3,0.5,182.8,10.7,6.0,Line item
+221118,Other electric power generation,2.9,18.7,0.2,5.9,18.7,0.3,103.4,2.8,6.0,Line item
+221200,Natural gas distribution,492.0,1.9,0.7,447.8,1.9,0.6,-9.0,-42.9,4.0,Line item
+221300,"Water, sewage and other systems",206.2,2.8,0.3,225.4,2.8,0.3,9.3,18.2,4.0,Line item
+230000,Construction,28847.8,0.8,11.4,32591.1,0.8,11.8,13.0,3741.0,2.0,Summary
+236000,Construction of buildings,6168.8,1.2,2.0,6877.5,1.2,2.0,11.5,708.1,3.0,Summary
+236100,Residential building construction,3023.5,1.6,1.0,3372.2,1.6,1.1,11.5,347.0,4.0,Line item
+236200,Nonresidential building construction,3141.6,1.4,1.4,3500.7,1.4,1.4,11.4,360.3,4.0,Line item
+237000,Heavy and civil engineering construction,4155.7,1.2,2.5,5081.0,1.2,2.8,22.3,924.9,3.0,Summary
+237100,Utility system construction,2101.6,1.7,1.8,2764.2,1.7,2.1,31.5,662.9,4.0,Summary
+237130,Power and communication line and related structures construction,766.4,2.3,0.8,1057.6,2.3,1.0,38.0,292.1,5.0,Line item
+237200,Land subdivision,162.2,2.6,0.1,157.0,2.6,0.1,-3.2,-4.8,4.0,Line item
+237300,"Highway, street, and bridge construction",1411.7,2.3,1.1,1624.3,2.3,1.2,15.1,211.9,4.0,Line item
+237900,Other heavy and civil engineering construction,461.5,2.4,0.8,513.2,2.4,0.9,11.2,50.8,4.0,Line item
+238000,Specialty trade contractors,18508.1,1.1,10.5,20611.7,1.1,10.7,11.4,2102.4,3.0,Summary
+238100,"Foundation, structure, and building exterior contractors",3590.1,1.8,3.9,4001.1,1.8,4.0,11.4,408.9,4.0,Summary
+238110,Poured concrete foundation and structure contractors,927.9,3.6,1.2,1034.5,3.6,1.2,11.5,105.8,5.0,Line item
+238140,Masonry contractors,663.6,4.2,2.6,739.0,4.2,2.7,11.4,74.7,5.0,Line item
+238160,Roofing contractors,752.5,3.3,1.6,837.2,3.3,1.6,11.3,84.4,5.0,Line item
+238200,Building equipment contractors,8642.1,1.4,4.5,9874.5,1.4,4.8,14.3,1231.7,4.0,Summary
+238210,Electrical contractors and other wiring installation contractors,3566.1,1.7,1.9,3904.7,1.7,2.0,9.5,337.5,5.0,Line item
+238220,"Plumbing, heating, and air-conditioning contractors",4468.9,1.7,2.3,5292.2,1.7,2.5,18.4,822.1,5.0,Line item
+238290,Other building equipment contractors,597.3,2.1,1.4,666.4,2.1,1.5,11.6,68.2,5.0,Line item
+238300,Building finishing contractors,3469.5,1.9,5.1,3608.4,1.9,5.0,4.0,137.3,4.0,Summary
+238310,Drywall and insulation contractors,1063.4,3.8,3.5,1018.3,3.8,3.3,-4.2,-44.2,5.0,Line item
+238320,Painting and wall covering contractors,929.5,5.3,2.2,945.0,5.3,2.1,1.7,14.7,5.0,Line item
+238900,Other specialty trade contractors,2788.7,1.7,2.3,3107.9,1.7,2.3,11.4,319.0,4.0,Line item
+31-330,Manufacturing,55952.6,0.6,19.8,52591.2,0.6,19.1,-6.0,-3360.6,2.0,Summary
+311000,Food manufacturing,7126.9,1.2,3.8,7065.9,1.2,3.7,-0.9,-60.7,3.0,Summary
+311100,Animal food manufacturing,254.2,2.7,0.3,254.3,2.7,0.3,0.0,-1.1,4.0,Line item
+311200,Grain and oilseed milling,264.8,2.8,0.4,251.4,2.8,0.4,-5.1,-13.3,4.0,Line item
+311300,Sugar and confectionery product manufacturing,343.7,2.3,0.3,322.5,2.3,0.3,-6.2,-19.0,4.0,Line item
+311400,Fruit and vegetable preserving and specialty food manufacturing,780.0,2.0,0.7,744.6,2.0,0.7,-4.5,-34.0,4.0,Line item
+311500,Dairy product manufacturing,634.8,2.1,0.6,639.2,2.1,0.6,0.7,4.6,4.0,Line item
+311600,Animal slaughtering and processing,2338.9,1.9,2.2,2333.6,1.9,2.1,-0.2,-5.1,4.0,Line item
+311700,Seafood product preparation and packaging,178.6,3.7,0.3,161.3,3.7,0.2,-9.7,-17.1,4.0,Line item
+311800,Bakeries and tortilla manufacturing,1360.7,2.2,0.9,1344.4,2.2,0.9,-1.2,-15.1,4.0,Line item
+311900,Other food manufacturing,934.8,2.0,0.8,980.6,2.0,0.8,4.9,44.9,4.0,Line item
+312000,Beverage and tobacco product manufacturing,1084.8,1.8,0.7,1119.7,1.8,0.7,3.2,34.8,3.0,Summary
+312100,Beverage manufacturing,1014.3,1.9,0.7,1070.4,1.9,0.7,5.5,55.1,4.0,Line item
+312200,Tobacco manufacturing,55.4,5.2,0.2,33.2,5.2,0.1,-40.1,-19.8,4.0,Line item
+313-40,Textile mills and textile product mills,1031.1,2.2,3.0,832.0,2.2,2.8,-19.3,-198.0,3.0,Summary
+313000,Textile mills,519.8,2.8,2.3,424.1,2.8,2.2,-18.4,-94.2,4.0,Line item
+314000,Textile product mills,501.1,2.5,1.3,399.8,2.5,1.2,-20.2,-100.7,4.0,Line item
+315-60,"Apparel, leather and allied product manufacturing",688.9,2.4,2.4,484.1,2.4,2.1,-29.7,-202.6,3.0,Summary
+315000,Apparel manufacturing,547.6,2.7,1.4,362.2,2.7,1.1,-33.9,-185.2,4.0,Line item
+316000,Leather and allied product manufacturing,125.7,3.7,1.7,109.0,3.7,1.7,-13.3,-14.5,4.0,Line item
+321000,Wood product manufacturing,1811.0,1.8,2.2,1751.7,1.8,2.2,-3.3,-58.6,3.0,Summary
+321100,Sawmills and wood preservation,426.5,2.9,1.3,420.7,2.9,1.3,-1.4,-4.7,4.0,Line item
+321200,"Veneer, plywood, and engineered wood product manufacturing",356.6,2.6,0.6,354.9,2.6,0.6,-0.5,-2.5,4.0,Line item
+321900,Other wood product manufacturing,1003.1,2.0,1.2,951.7,2.0,1.2,-5.1,-50.8,4.0,Line item
+322000,Paper manufacturing,1697.3,1.7,1.3,1520.4,1.7,1.2,-10.4,-174.6,3.0,Summary
+322100,"Pulp, paper, and paperboard mills",459.8,2.3,0.5,364.6,2.3,0.4,-20.7,-93.8,4.0,Line item
+322200,Converted paper product manufacturing,1233.5,2.1,1.1,1153.4,2.1,1.1,-6.5,-78.6,4.0,Line item
+323000,Printing and related support activities,1890.0,1.8,1.8,1582.0,1.8,1.6,-16.3,-307.3,3.0,Line item
+324000,Petroleum and coal products manufacturing,502.6,2.0,0.8,489.1,2.0,0.8,-2.7,-12.3,3.0,Line item
+325000,Chemical manufacturing,3623.6,1.2,2.6,3403.2,1.2,2.5,-6.1,-219.1,3.0,Summary
+325100,Basic chemical manufacturing,669.7,2.0,1.0,659.8,2.0,1.0,-1.5,-7.7,4.0,Line item
+325200,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",409.7,2.2,0.7,356.9,2.2,0.7,-12.9,-52.3,4.0,Line item
+325300,"Pesticide, fertilizer, and other agricultural chemical manufacturing",158.4,3.1,0.3,136.8,3.1,0.3,-13.6,-20.0,4.0,Line item
+325400,Pharmaceutical and medicine manufacturing,1268.9,1.5,1.1,1245.3,1.5,1.1,-1.9,-20.9,4.0,Line item
+325500,"Paint, coating, and adhesive manufacturing",276.7,2.7,0.4,260.4,2.8,0.3,-5.9,-14.9,4.0,Line item
+325600,"Soap, cleaning compound, and toilet preparation manufacturing",464.6,2.3,0.4,433.6,2.3,0.4,-6.7,-29.6,4.0,Line item
+325900,Other chemical product and preparation manufacturing,358.8,2.3,0.4,293.9,2.3,0.3,-18.1,-62.4,4.0,Line item
+326000,Plastics and rubber products manufacturing,3201.3,1.5,2.7,2895.1,1.5,2.6,-9.6,-303.1,3.0,Summary
+326100,Plastics product manufacturing,2571.0,1.6,2.1,2363.7,1.6,2.1,-8.1,-206.3,4.0,Line item
+326200,Rubber product manufacturing,601.1,2.1,1.0,503.1,2.1,1.0,-16.3,-96.3,4.0,Line item
+327000,Nonmetallic mineral product manufacturing,1822.8,1.5,1.6,1696.3,1.5,1.5,-6.9,-124.1,3.0,Summary
+327100,Clay product and refractory manufacturing,175.6,2.9,0.4,155.9,2.9,0.3,-11.2,-18.9,4.0,Line item
+327200,Glass and glass product manufacturing,382.9,2.4,0.6,333.4,2.4,0.5,-12.9,-47.9,4.0,Line item
+327300,Cement and concrete product manufacturing,880.9,2.3,0.6,858.1,2.3,0.6,-2.6,-21.7,4.0,Line item
+"3274,9","Lime, gypsum and other nonmetallic mineral product manufacturing",398.9,2.0,0.6,365.4,2.0,0.6,-8.4,-32.0,4.0,Summary
+327400,Lime and gypsum product manufacturing,60.2,4.7,0.2,46.1,4.7,0.2,-23.4,-13.0,5.0,Line item
+327900,Other nonmetallic mineral product manufacturing,346.8,2.2,0.6,326.4,2.2,0.5,-5.9,-18.6,5.0,Line item
+331000,Primary metal manufacturing,1728.3,1.6,3.2,1485.3,1.6,3.0,-14.1,-241.3,3.0,Summary
+331100,Iron and steel mills and ferroalloy manufacturing,378.9,2.3,0.9,319.8,2.3,0.8,-15.6,-57.1,4.0,Line item
+331200,Steel product manufacturing from purchased steel,252.6,2.6,0.4,246.6,2.6,0.5,-2.4,-6.4,4.0,Line item
+331300,Alumina and aluminum production and processing,271.8,2.5,0.5,236.2,2.5,0.5,-13.1,-33.3,4.0,Line item
+331400,Nonferrous metal (except aluminum) production and processing,277.8,2.2,0.6,252.5,2.2,0.6,-9.1,-23.2,4.0,Line item
+331500,Foundries,540.4,2.3,1.8,424.3,2.3,1.6,-21.5,-115.4,4.0,Line item
+332000,Fabricated metal product manufacturing,6411.3,1.2,4.0,6197.6,1.2,4.0,-3.3,-214.3,3.0,Summary
+332100,Forging and stamping,444.2,2.4,0.6,419.7,2.4,0.6,-5.5,-25.7,4.0,Line item
+332200,Cutlery and handtool manufacturing,168.1,2.8,0.2,152.9,2.8,0.2,-9.0,-12.8,4.0,Line item
+332300,Architectural and structural metals manufacturing,1656.2,1.6,1.1,1609.1,1.6,1.1,-2.8,-48.4,4.0,Line item
+332400,"Boiler, tank, and shipping container manufacturing",420.0,2.3,0.4,408.0,2.3,0.4,-2.9,-11.7,4.0,Line item
+332500,Hardware manufacturing,109.9,3.1,0.1,96.0,3.1,0.1,-12.6,-12.8,4.0,Line item
+332600,Spring and wire product manufacturing,192.9,3.0,0.3,163.1,3.0,0.3,-15.4,-28.1,4.0,Line item
+332700,"Machine shops; turned product; and screw, nut, and bolt manufacturing",1542.9,2.0,1.5,1548.6,2.0,1.5,0.4,4.6,4.0,Summary
+332710,Machine shops,1190.8,2.2,1.1,1203.1,2.2,1.1,1.0,12.8,5.0,Line item
+332720,"Turned product and screw, nut, and bolt manufacturing",348.4,2.9,0.6,340.7,2.9,0.6,-2.2,-7.5,5.0,Line item
+332800,"Coating, engraving, heat treating, and allied activities",629.8,2.4,1.2,593.9,2.4,1.2,-5.7,-35.1,4.0,Line item
+332900,Other fabricated metal product manufacturing,1218.2,1.5,0.9,1176.8,1.5,0.9,-3.4,-42.1,4.0,Line item
+333000,Machinery manufacturing,4861.0,1.2,2.6,4601.1,1.2,2.5,-5.3,-259.6,3.0,Summary
+333100,"Agriculture, construction, and mining machinery manufacturing",932.2,1.7,0.7,1012.4,1.7,0.7,8.6,79.2,4.0,Line item
+333200,Industrial machinery manufacturing,503.7,2.2,0.4,432.1,2.2,0.3,-14.2,-69.8,4.0,Line item
+333300,Commercial and service industry machinery manufacturing,405.2,1.9,0.3,360.1,1.9,0.3,-11.1,-44.0,4.0,Line item
+333400,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",587.1,2.1,0.4,506.9,2.1,0.4,-13.7,-78.5,4.0,Line item
+333500,Metalworking machinery manufacturing,792.7,2.2,1.1,738.0,2.2,1.0,-6.9,-54.0,4.0,Line item
+333600,"Engine, turbine, and power transmission equipment manufacturing",434.8,2.2,0.4,415.1,2.2,0.4,-4.5,-18.9,4.0,Line item
+333900,Other general purpose machinery manufacturing,1172.8,1.6,0.7,1102.7,1.6,0.7,-6.0,-67.7,4.0,Line item
+334000,Computer and electronic product manufacturing,4693.2,1.2,2.6,4124.2,1.2,2.4,-12.1,-567.0,3.0,Summary
+334100,Computer and peripheral equipment manufacturing,721.4,2.5,0.5,619.4,2.5,0.4,-14.1,-100.2,4.0,Line item
+334200,Communications equipment manufacturing,384.1,2.3,0.3,277.2,2.3,0.2,-27.8,-105.5,4.0,Line item
+334300,Audio and video equipment manufacturing,83.3,3.5,0.1,74.5,3.5,0.1,-10.6,-6.9,4.0,Line item
+334400,Semiconductor and other electronic component manufacturing,1669.0,1.8,1.6,1495.4,1.8,1.5,-10.4,-171.4,4.0,Line item
+334500,"Navigational, measuring, electromedical, and control instruments manufacturing",1765.8,1.5,1.2,1604.1,1.5,1.1,-9.2,-160.3,4.0,Line item
+334600,Manufacturing and reproducing magnetic and optical media,63.5,3.6,0.1,48.5,3.6,0.0,-23.6,-13.0,4.0,Line item
+335000,"Electrical equipment, appliance, and component manufacturing",1759.9,1.6,1.2,1623.1,1.6,1.2,-7.8,-137.1,3.0,Summary
+335100,Electric lighting equipment manufacturing,215.5,2.8,0.2,198.2,2.8,0.2,-8.0,-16.8,4.0,Line item
+335200,Household appliance manufacturing,291.9,2.8,0.2,250.1,2.8,0.2,-14.3,-40.4,4.0,Line item
+335300,Electrical equipment manufacturing,640.5,2.3,0.7,589.2,2.3,0.7,-8.0,-50.6,4.0,Line item
+335900,Other electrical equipment and component manufacturing,599.7,2.1,0.5,572.2,2.1,0.5,-4.6,-27.6,4.0,Line item
+336000,Transportation equipment manufacturing,6971.1,1.1,3.9,6839.3,1.1,3.9,-1.9,-133.3,3.0,Summary
+336100,Motor vehicle manufacturing,849.1,2.9,0.5,868.6,2.9,0.5,2.3,18.4,4.0,Line item
+336200,Motor vehicle body and trailer manufacturing,707.9,2.2,0.5,680.4,2.2,0.5,-3.9,-27.3,4.0,Line item
+336300,Motor vehicle parts manufacturing,2644.9,1.6,1.6,2591.1,1.6,1.7,-2.0,-55.3,4.0,Line item
+336400,Aerospace product and parts manufacturing,2098.8,1.4,1.9,2057.6,1.4,1.8,-2.0,-40.8,4.0,Line item
+336500,Railroad rolling stock manufacturing,114.3,3.6,0.2,113.6,3.6,0.2,-0.6,-1.0,4.0,Line item
+336600,Ship and boat building,588.3,2.0,0.9,542.5,2.0,0.8,-7.8,-44.7,4.0,Line item
+336900,Other transportation equipment manufacturing,141.6,3.1,0.1,130.3,3.1,0.1,-8.0,-10.6,4.0,Line item
+337000,Furniture and related product manufacturing,1730.0,1.7,2.1,1687.1,1.7,2.1,-2.5,-43.5,3.0,Summary
+337100,Household and institutional furniture and kitchen cabinet manufacturing,1082.4,2.0,1.8,1054.5,2.0,1.8,-2.6,-27.8,4.0,Summary
+337110,Wood kitchen cabinet and countertop manufacturing,493.5,2.6,0.9,497.8,2.6,0.9,0.9,4.0,5.0,Line item
+337120,Household and institutional furniture manufacturing,586.7,2.3,1.2,554.4,2.3,1.2,-5.5,-31.1,5.0,Line item
+337200,Office furniture (including fixtures) manufacturing,474.2,2.2,0.6,472.4,2.2,0.6,-0.4,-3.4,4.0,Line item
+337900,Other furniture related product manufacturing,167.8,3.4,0.2,155.0,3.4,0.2,-7.6,-13.0,4.0,Line item
+339000,Miscellaneous manufacturing,2670.3,1.2,1.8,2593.8,1.2,1.8,-2.9,-77.8,3.0,Summary
+339100,Medical equipment and supplies manufacturing,1396.3,1.5,1.5,1437.6,1.5,1.5,3.0,41.0,4.0,Line item
+339900,Other miscellaneous manufacturing,1272.8,1.5,0.8,1153.7,1.5,0.8,-9.4,-117.0,4.0,Summary
+339910,Jewelry and silverware manufacturing,112.1,3.7,0.4,76.3,3.7,0.3,-31.9,-34.9,5.0,Line item
+420000,Wholesale trade,25482.2,0.7,4.1,26127.2,0.7,4.0,2.5,642.2,2.0,Summary
+423000,"Merchant wholesalers, durable goods",12749.3,0.8,2.7,12939.9,0.8,2.6,1.5,189.7,3.0,Summary
+423100,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,1471.0,1.8,0.5,1504.5,1.8,0.5,2.3,33.3,4.0,Line item
+423200,Furniture and home furnishing merchant wholesalers,446.7,2.4,0.2,381.9,2.4,0.2,-14.5,-64.7,4.0,Line item
+423300,Lumber and other construction materials merchant wholesalers,948.8,1.9,0.3,962.1,1.9,0.3,1.4,12.9,4.0,Line item
+423400,Professional and commercial equipment and supplies merchant wholesalers,2669.6,1.4,1.1,2538.1,1.4,1.0,-4.9,-128.5,4.0,Line item
+423500,Metal and mineral (except petroleum) merchant wholesalers,535.6,2.1,0.2,613.6,2.1,0.3,14.6,75.9,4.0,Line item
+423600,Household appliances and electrical and electronic goods merchant wholesalers,1412.8,1.8,0.7,1365.4,1.8,0.6,-3.4,-46.9,4.0,Line item
+423700,"Hardware, and plumbing and heating equipment and supplies merchant wholesalers",1053.4,2.1,0.3,1106.6,2.1,0.3,5.1,52.1,4.0,Line item
+423800,"Machinery, equipment, and supplies merchant wholesalers",2928.1,1.4,1.2,2977.7,1.4,1.1,1.7,49.0,4.0,Summary
+423820,Farm and garden machinery and equipment merchant wholesalers,461.8,3.0,0.6,481.1,3.0,0.6,4.2,19.2,5.0,Line item
+423900,Miscellaneous durable goods merchant wholesalers,1191.4,1.5,0.4,1387.3,1.5,0.5,16.4,195.6,4.0,Line item
+424000,"Merchant wholesalers, nondurable goods",8991.0,1.0,1.9,9029.5,1.0,1.9,0.4,38.2,3.0,Summary
+424100,Paper and paper product merchant wholesalers,515.4,2.5,0.2,429.1,2.5,0.1,-16.7,-85.6,4.0,Line item
+424200,Drugs and druggists' sundries merchant wholesalers,861.8,1.9,0.3,759.2,1.9,0.3,-11.9,-101.1,4.0,Line item
+424300,"Apparel, piece goods, and notions merchant wholesalers",649.9,2.5,0.6,666.9,2.5,0.6,2.6,15.8,4.0,Line item
+424400,Grocery and related product merchant wholesalers,3373.0,1.6,1.0,3650.9,1.6,1.0,8.2,277.9,4.0,Line item
+424500,Farm product raw material merchant wholesalers,326.5,2.7,0.4,261.1,2.7,0.3,-20.0,-64.7,4.0,Line item
+424600,Chemical and allied products merchant wholesalers,548.1,2.1,0.3,563.3,2.1,0.3,2.8,14.1,4.0,Line item
+424700,Petroleum and petroleum products merchant wholesalers,426.0,2.7,0.3,339.9,2.7,0.2,-20.2,-84.5,4.0,Line item
+424800,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",851.3,2.7,0.3,1059.7,2.7,0.4,24.5,208.9,4.0,Line item
+424900,Miscellaneous nondurable goods merchant wholesalers,1412.9,1.6,0.5,1273.2,1.6,0.4,-9.9,-138.6,4.0,Line item
+425000,Wholesale electronic markets and agents and brokers,3772.8,1.1,0.9,4191.0,1.1,0.9,11.1,414.2,3.0,Line item
+44-450,Retail trade,68830.9,0.7,7.8,70583.2,0.7,7.7,2.5,1752.1,2.0,Summary
+441000,Motor vehicle and parts dealers,8943.9,1.8,4.0,9675.3,1.8,4.0,8.2,732.3,3.0,Summary
+441100,Automobile dealers,5711.2,2.1,2.1,6546.3,2.1,2.2,14.6,835.1,4.0,Line item
+441200,Other motor vehicle dealers,668.9,2.8,1.6,629.1,2.9,1.6,-6.0,-38.9,4.0,Line item
+441300,"Automotive parts, accessories, and tire stores",2559.0,2.9,1.9,2493.9,2.9,1.8,-2.5,-64.0,4.0,Line item
+442000,Furniture and home furnishings stores,2010.9,2.2,0.6,1987.9,2.2,0.6,-1.1,-21.8,4.0,Summary
+442100,Furniture stores,966.4,2.6,0.3,868.6,2.6,0.3,-10.1,-98.1,5.0,Line item
+442200,Home furnishings stores,1041.2,2.5,0.4,1115.2,2.5,0.4,7.1,74.3,5.0,Line item
+443000,Electronics and appliance stores,2144.3,2.4,1.0,1856.1,2.4,0.8,-13.4,-286.3,4.0,Line item
+444000,Building material and garden equipment and supplies dealers,5413.7,1.8,1.3,5692.1,1.8,1.3,5.1,276.6,4.0,Summary
+444100,Building material and supplies dealers,4723.8,2.0,1.0,4861.2,2.0,1.0,2.9,136.1,5.0,Line item
+444200,Lawn and garden equipment and supplies stores,688.2,2.9,0.5,826.7,2.9,0.6,20.1,138.9,5.0,Line item
+4445R0,"Retail trade, except motor vehicle and parts dealers, food and beverage stores, and general merchandise stores",32515.5,0.8,4.3,33111.3,0.8,4.2,1.8,596.7,3.0,Summary
+445000,Food and beverage stores,13964.8,1.9,2.7,14039.6,1.9,2.7,0.5,74.4,3.0,Summary
+445100,Grocery stores,12225.0,2.1,2.6,12271.1,2.1,2.5,0.4,45.1,4.0,Line item
+445200,Specialty food stores,1031.2,2.9,0.4,1019.7,2.9,0.4,-1.1,-11.7,4.0,Line item
+445300,"Beer, wine, and liquor stores",701.0,4.8,0.1,740.8,4.8,0.2,5.7,39.4,4.0,Line item
+446000,Health and personal care stores,4712.9,2.0,2.1,5111.1,2.0,2.1,8.4,397.7,4.0,Summary
+446100,Health and personal care stores,4712.9,2.0,2.1,5111.1,2.0,2.1,8.4,397.7,5.0,Summary
+446110,Pharmacies and drug stores,3374.1,2.8,1.6,3619.6,2.8,1.5,7.3,244.5,6.0,Line item
+447000,Gasoline stations,4411.1,3.6,0.9,4682.0,3.6,0.9,6.1,270.0,4.0,Line item
+448000,Clothing and clothing accessories stores,5476.9,3.4,2.3,4875.1,3.4,2.0,-11.0,-602.1,4.0,Summary
+448100,Clothing stores,4056.6,3.9,1.5,3414.8,3.9,1.3,-15.8,-641.5,5.0,Line item
+448200,Shoe stores,858.1,8.5,0.3,932.1,8.5,0.4,8.6,73.9,5.0,Line item
+448300,"Jewelry, luggage, and leather goods stores",555.6,4.5,1.1,520.2,4.5,1.1,-6.4,-33.9,5.0,Line item
+451000,"Sporting goods, hobby, musical instrument, and book stores",2582.9,2.1,1.3,2883.1,2.1,1.4,11.6,300.2,4.0,Summary
+451100,"Sporting goods, hobby, and musical instrument stores",2226.1,2.2,1.3,2610.6,2.2,1.4,17.3,384.4,5.0,Summary
+451110,Sporting goods stores,1228.9,2.6,0.9,1599.2,2.6,0.9,30.1,369.7,6.0,Line item
+451200,Book stores and news dealers,354.7,4.9,0.1,269.8,4.9,0.1,-23.9,-83.7,5.0,Line item
+452000,General merchandise stores,13753.4,2.1,2.6,14091.3,2.0,2.7,2.5,336.7,3.0,Summary
+452100,Department stores,5652.9,2.7,1.1,4909.8,2.7,0.9,-13.1,-743.1,4.0,Line item
+452900,Other general merchandise stores,7988.4,2.8,2.2,9059.4,2.8,2.4,13.4,1070.6,4.0,Line item
+453000,Miscellaneous store retailers,3548.7,1.6,1.1,3610.7,1.6,1.0,1.7,61.3,4.0,Summary
+453100,Florists,291.4,6.2,0.8,237.1,6.2,0.7,-18.6,-53.6,5.0,Line item
+453200,"Office supplies, stationery, and gift stores",1131.7,2.7,0.2,773.6,2.7,0.2,-31.6,-358.1,5.0,Line item
+453300,Used merchandise stores,743.5,2.9,0.1,982.7,2.9,0.2,32.2,238.2,5.0,Line item
+453900,Other miscellaneous store retailers,1367.7,2.1,0.7,1602.2,2.1,0.8,17.1,234.5,5.0,Line item
+454000,Nonstore retailers,2315.7,1.3,0.7,2531.0,1.3,0.7,9.3,213.8,4.0,Summary
+454100,Electronic shopping and mail-order houses,1533.4,1.5,0.4,1900.0,1.5,0.5,23.9,365.3,5.0,Line item
+454200,Vending machine operators,181.2,4.8,0.4,95.5,4.8,0.3,-47.3,-84.2,5.0,Line item
+454300,Direct selling establishments,592.8,2.4,0.2,525.6,2.4,0.2,-11.3,-65.7,5.0,Line item
+48-490,Transportation and warehousing,22880.5,0.9,7.7,24576.6,0.9,7.7,7.4,1695.9,2.0,Summary
+481000,Air transportation,1997.5,2.1,3.2,2054.5,2.1,3.1,2.9,57.0,3.0,Summary
+481100,Scheduled air transportation,1809.0,2.5,3.3,1886.8,2.5,3.2,4.3,76.7,4.0,Line item
+481200,Nonscheduled air transportation,184.7,3.5,0.6,164.7,3.6,0.5,-10.8,-19.3,4.0,Line item
+482000,Rail transportation,940.2,1.8,3.8,901.7,1.8,3.7,-4.1,-35.6,3.0,Line item
+483000,Water transportation,283.8,2.9,1.6,314.5,2.9,1.7,10.8,29.6,3.0,Summary
+483100,"Deep sea, coastal, and great lakes water transportation",162.6,3.4,1.0,171.5,3.4,1.0,5.5,8.4,4.0,Line item
+483200,Inland water transportation,119.0,4.7,1.2,139.3,4.7,1.3,17.1,20.1,4.0,Line item
+484000,Truck transportation,6919.8,2.0,1.4,7122.6,2.0,1.4,2.9,199.8,3.0,Summary
+484100,General freight trucking,4780.1,2.5,1.2,4917.8,2.5,1.1,2.9,138.3,4.0,Line item
+484200,Specialized freight trucking,2135.3,2.3,0.5,2197.2,2.3,0.5,2.9,61.4,4.0,Line item
+485000,Transit and ground passenger transportation,2225.6,3.0,1.7,2294.3,3.0,1.7,3.1,67.2,3.0,Summary
+485100,Urban transit systems,233.4,4.8,0.4,252.3,4.8,0.4,8.1,18.9,4.0,Line item
+485200,Interurban and rural bus transportation,89.4,9.3,0.2,91.6,9.3,0.2,2.5,2.1,4.0,Line item
+485300,Taxi and limousine service,329.8,5.1,0.4,186.3,5.0,0.2,-43.5,-142.5,4.0,Line item
+485400,School and employee bus transportation,957.7,6.9,1.3,1000.9,6.9,1.3,4.5,42.9,4.0,Line item
+485500,Charter bus industry,141.3,7.6,0.3,144.5,7.6,0.3,2.3,3.4,4.0,Line item
+485900,Other transit and ground passenger transportation,461.4,4.8,0.6,604.5,4.8,0.8,31.0,142.2,4.0,Line item
+486000,Pipeline transportation,225.5,2.7,0.9,225.1,2.7,0.9,-0.2,-0.9,3.0,Summary
+486100,Pipeline transportation of crude oil,48.8,5.4,0.2,49.8,5.4,0.2,2.0,0.8,4.0,Line item
+486200,Pipeline transportation of natural gas,130.8,3.1,0.8,128.1,3.1,0.8,-2.1,-2.2,4.0,Line item
+486900,Other pipeline transportation,38.6,5.9,0.2,40.3,6.0,0.2,4.4,0.8,4.0,Line item
+487-80,Scenic and sightseeing transportation and support activities for transportation,3023.8,1.2,2.5,3334.7,1.2,2.6,10.3,309.2,3.0,Summary
+487000,Scenic and sightseeing transportation,144.6,3.2,0.8,167.3,3.2,0.8,15.7,21.9,4.0,Summary
+487100,"Scenic and sightseeing transportation, land",58.6,4.8,0.2,71.7,4.8,0.2,22.4,13.5,5.0,Line item
+487200,"Scenic and sightseeing transportation, water",70.2,4.5,0.7,76.8,4.5,0.8,9.4,6.5,5.0,Line item
+487900,"Scenic and sightseeing transportation, other",13.7,10.1,0.1,15.5,10.1,0.1,13.1,1.6,5.0,Line item
+488000,Support activities for transportation,2878.8,1.3,2.5,3166.0,1.3,2.6,10.0,285.7,4.0,Summary
+488100,Support activities for air transportation,833.3,1.7,1.2,965.6,1.7,1.4,15.9,131.9,5.0,Line item
+488200,Support activities for rail transportation,146.4,4.1,1.2,161.4,4.1,1.3,10.2,14.3,5.0,Line item
+488300,Support activities for water transportation,393.7,2.8,1.5,391.0,2.8,1.4,-0.7,-2.9,5.0,Line item
+488400,Support activities for road transportation,455.7,3.9,0.2,535.8,3.9,0.3,17.6,79.6,5.0,Line item
+488500,Freight transportation arrangement,889.0,2.5,0.6,974.2,2.5,0.6,9.6,84.1,5.0,Line item
+488900,Other support activities for transportation,141.7,4.0,0.1,118.1,4.0,0.1,-16.7,-23.3,5.0,Line item
+491000,Postal service,2971.3,3.2,3.6,2579.6,3.2,3.5,-13.2,-391.9,4.0,Line item
+492000,Couriers and messengers,2243.3,3.0,1.1,2395.7,3.0,1.1,6.8,151.0,3.0,Summary
+492100,Couriers and express delivery services,1943.2,3.1,0.9,2052.4,3.1,0.9,5.6,108.7,4.0,Line item
+492200,Local messengers and local delivery,310.2,7.9,0.4,354.8,7.9,0.4,14.4,44.5,4.0,Line item
+493000,Warehousing and storage,4100.4,1.6,0.9,4995.3,1.6,1.1,21.8,893.7,3.0,Line item
+510000,Information,12538.4,1.0,6.2,12801.9,1.0,6.0,2.1,262.9,2.0,Summary
+511000,Publishing industries (except Internet),3287.4,1.6,2.0,3219.8,1.6,1.7,-2.1,-66.7,3.0,Summary
+511100,"Newspaper, periodical, book, and directory publishers",1656.9,1.8,1.6,1267.9,1.8,1.2,-23.5,-387.1,4.0,Summary
+511110,Newspaper publishers,794.6,2.3,1.1,510.5,2.3,0.8,-35.8,-284.1,5.0,Line item
+511200,Software publishers,1624.3,2.4,0.8,1945.6,2.4,0.8,19.8,320.2,4.0,Line item
+512000,Motion picture and sound recording industries,1917.3,1.6,2.7,2149.8,1.6,2.9,12.1,231.7,3.0,Summary
+512100,Motion picture and video industries,1847.4,1.7,2.7,2086.7,1.7,2.9,13.0,237.8,4.0,Summary
+512130,Motion picture and video exhibition,621.4,5.2,1.8,626.8,5.2,1.7,0.9,5.5,5.0,Line item
+512200,Sound recording industries,70.1,4.5,0.3,64.0,4.5,0.3,-8.7,-5.3,4.0,Line item
+515000,Broadcasting (except Internet),1227.0,2.1,2.8,1085.5,2.1,2.5,-11.5,-140.4,3.0,Summary
+515100,Radio and television broadcasting,989.2,2.5,3.0,901.3,2.5,2.7,-8.9,-85.5,4.0,Summary
+515110,Radio broadcasting,381.7,3.2,1.5,272.3,3.3,1.1,-28.7,-109.3,5.0,Line item
+515120,Television broadcasting,602.8,2.8,2.0,624.8,2.8,2.1,3.6,21.1,5.0,Line item
+515200,Cable and other subscription programming,235.2,2.9,0.3,183.0,2.9,0.2,-22.2,-52.1,4.0,Line item
+517000,Telecommunications,3588.2,1.7,2.1,3083.8,1.7,1.7,-14.1,-503.9,3.0,Summary
+517100,Wired telecommunications carriers,2686.3,1.9,1.7,2224.2,1.9,1.4,-17.2,-462.5,4.0,Line item
+517200,Wireless telecommunications carriers (except satellite),521.2,3.3,0.6,544.1,3.3,0.6,4.4,22.1,4.0,Line item
+5174-9,"Satellite, telecommunications resellers, and all other telecommunications",373.0,2.6,0.3,309.0,2.6,0.2,-17.2,-63.6,4.0,Summary
+517400,Satellite telecommunications,33.4,6.3,0.0,32.8,6.3,0.0,-1.8,-0.2,5.0,Line item
+517900,Other telecommunications,333.5,2.9,0.2,271.1,2.9,0.2,-18.7,-62.2,5.0,Line item
+518000,"Data processing, hosting, and related services",1339.1,2.0,0.6,1519.4,2.1,0.7,13.5,178.5,3.0,Line item
+519000,Other information services,1151.5,2.0,0.8,1711.6,2.0,1.1,48.6,559.9,3.0,Line item
+520000,Finance and insurance,26083.7,1.0,7.1,27626.8,1.0,7.1,5.9,1542.6,2.0,Summary
+521-20,"Monetary authorities, credit intermediation, and related activities",10587.6,1.7,4.8,10946.5,1.7,4.7,3.4,358.9,3.0,Summary
+521000,Monetary authorities-central bank,75.5,4.3,0.1,60.1,4.3,0.1,-20.4,-14.6,4.0,Line item
+522000,Credit intermediation and related activities,10994.0,1.7,4.6,11413.4,1.7,4.6,3.8,420.1,4.0,Summary
+522100,Depository credit intermediation,7097.2,2.1,3.7,6911.3,2.1,3.5,-2.6,-185.9,5.0,Line item
+522200,Nondepository credit intermediation,2600.1,2.2,1.5,2900.9,2.2,1.6,11.6,300.8,5.0,Summary
+522290,Other nondepository credit intermediation,1799.9,2.4,1.2,2139.6,2.4,1.3,18.9,339.3,6.0,Line item
+522300,Activities related to credit intermediation,1280.6,2.5,0.7,1584.1,2.5,0.8,23.7,304.5,5.0,Line item
+"523,50","Securities, commodity contracts, fund, trusts and other financial investments and vehicles and related activities",3049.8,1.6,1.1,3396.4,1.7,1.1,11.4,345.6,3.0,Summary
+523000,"Securities, commodity contracts, and other financial investments and related activities",3970.6,2.1,2.0,4418.9,2.1,2.1,11.3,448.1,4.0,Summary
+523100,Securities and commodity contracts intermediation and brokerage,1914.1,2.9,1.5,1899.1,2.9,1.4,-0.8,-14.1,5.0,Line item
+523200,Securities and commodity exchanges,18.1,8.4,0.0,20.0,8.5,0.0,10.5,1.7,5.0,Line item
+523900,Other financial investment activities,2031.1,2.2,1.0,2492.5,2.2,1.2,22.7,460.6,5.0,Line item
+524000,Insurance carriers and related activities,10984.2,1.2,3.6,11669.0,1.2,3.6,6.2,683.8,3.0,Summary
+524100,Insurance carriers,6406.0,1.4,2.7,6490.3,1.3,2.5,1.3,83.8,4.0,Summary
+524114,Direct health and medical insurance carriers,1955.6,2.0,0.9,2412.9,2.0,1.0,23.4,455.9,5.0,Line item
+524120,"Direct insurance (except life, health, and medical) carriers",2851.1,1.9,1.9,2724.1,1.9,1.8,-4.5,-126.6,5.0,Line item
+524200,"Agencies, brokerages, and other insurance related activities",4567.2,1.8,1.7,5164.9,1.8,1.9,13.1,598.6,4.0,Summary
+524210,Insurance agencies and brokerages,3178.3,2.4,1.4,3443.0,2.4,1.4,8.3,265.7,5.0,Line item
+524290,Other insurance related activities,1379.6,2.2,0.8,1708.7,2.2,0.9,23.9,329.3,5.0,Line item
+525000,"Funds, trusts, and other financial vehicles",36.3,5.5,0.0,40.2,5.5,0.0,10.7,3.6,4.0,Summary
+525100,Insurance and employee benefit funds,16.9,11.0,0.0,18.8,11.0,0.0,11.2,1.4,5.0,Line item
+525900,Other investment pools and funds,19.6,7.4,0.0,21.1,7.4,0.0,7.7,1.6,5.0,Line item
+530000,Real estate and rental and leasing,9337.4,0.9,1.8,9881.8,0.9,1.8,5.8,542.5,2.0,Summary
+531000,Real estate,6684.7,1.3,1.6,7158.7,1.3,1.7,7.1,472.8,3.0,Summary
+531100,Lessors of real estate,2529.6,1.6,0.6,2454.9,1.6,0.6,-3.0,-72.6,4.0,Line item
+531200,Offices of real estate agents and brokers,1319.2,2.7,0.7,1164.1,2.7,0.6,-11.8,-154.4,4.0,Line item
+531300,Activities related to real estate,2836.1,1.6,0.9,3542.7,1.6,1.0,24.9,705.7,4.0,Line item
+532000,Rental and leasing services,2532.3,1.4,0.9,2596.9,1.4,0.9,2.6,64.4,3.0,Summary
+532100,Automotive equipment rental and leasing,919.1,2.8,0.5,962.7,2.8,0.5,4.7,42.8,4.0,Line item
+5322-3,Consumer goods rental and general rental centers,946.3,2.0,0.4,875.6,2.0,0.4,-7.5,-69.2,4.0,Summary
+532200,Consumer goods rental,764.2,2.3,0.4,693.9,2.4,0.3,-9.2,-68.5,5.0,Line item
+532300,General rental centers,179.0,3.9,0.1,179.0,3.9,0.1,-0.0,-0.6,5.0,Line item
+532400,Commercial and industrial machinery and equipment rental and leasing,649.7,1.9,0.5,741.2,1.9,0.5,14.1,91.5,4.0,Line item
+533000,Lessors of nonfinancial intangible assets (except copyrighted works),95.9,3.5,0.0,98.4,3.5,0.0,2.6,1.8,3.0,Line item
+540000,"Professional, scientific, and technical services",39125.6,0.6,9.9,44436.4,0.6,10.4,13.6,5311.2,2.0,Summary
+541000,"Professional, scientific, and technical services",39125.6,0.6,9.9,44436.4,0.6,10.4,13.6,5311.2,3.0,Summary
+541100,Legal services,4935.2,2.3,3.2,5043.1,2.3,3.2,2.2,107.8,4.0,Line item
+541200,"Accounting, tax preparation, bookkeeping, and payroll services",4090.0,1.5,1.2,4416.1,1.5,1.2,8.0,324.7,4.0,Line item
+541300,"Architectural, engineering, and related services",6243.9,1.0,4.2,6801.1,1.0,4.2,8.9,556.4,4.0,Summary
+541330,Engineering services,4118.3,1.1,2.9,4647.8,1.1,3.0,12.9,528.8,5.0,Line item
+541380,Testing laboratories,706.0,1.6,0.8,698.6,1.6,0.7,-1.0,-5.9,5.0,Line item
+541400,Specialized design services,633.7,2.1,0.7,675.4,2.1,0.7,6.6,40.4,4.0,Line item
+541500,Computer systems design and related services,9170.7,1.3,2.7,11158.3,1.3,2.9,21.7,1986.7,4.0,Line item
+541600,"Management, scientific, and technical consulting services",5838.5,0.8,1.8,7198.5,0.8,2.1,23.3,1358.5,4.0,Line item
+541700,Scientific research and development services,3009.9,0.9,2.5,3410.7,0.9,2.6,13.3,398.0,4.0,Summary
+541710,"Research and development in the physical, engineering, and life sciences",2732.5,0.9,2.1,3195.6,0.9,2.3,16.9,461.7,5.0,Line item
+541720,Research and development in the social sciences and humanities,255.7,2.3,1.1,189.5,2.3,0.8,-25.9,-65.4,5.0,Line item
+541800,"Advertising, public relations, and related services",2120.6,1.6,1.6,2171.8,1.6,1.6,2.4,50.9,4.0,Line item
+541900,"Other professional, scientific, and technical services",2973.8,1.2,1.7,3433.4,1.2,1.8,15.5,459.2,4.0,Summary
+541920,Photographic services,224.0,3.9,0.5,43.8,3.9,0.1,-80.4,-178.3,5.0,Line item
+541940,Veterinary services,1570.0,5.7,4.0,1853.7,5.7,4.0,18.1,283.5,5.0,Line item
+550000,Management of companies and enterprises,9609.6,0.6,1.9,10206.1,0.7,1.9,6.2,596.1,2.0,Summary
+551000,Management of companies and enterprises,9609.6,0.6,1.9,10206.1,0.7,1.9,6.2,596.1,3.0,Line item
+560000,Administrative and support and waste management and remediation services,40222.1,0.5,5.1,44025.8,0.5,5.3,9.5,3803.9,2.0,Summary
+561000,Administrative and support services,38265.7,0.5,4.7,41790.9,0.5,4.9,9.2,3524.5,3.0,Summary
+561100,Office administrative services,1980.3,1.4,0.5,2431.4,1.4,0.6,22.8,450.1,4.0,Line item
+561200,Facilities support services,623.5,1.6,0.2,706.1,1.6,0.2,13.2,81.1,4.0,Line item
+561300,Employment services,16094.2,0.6,2.0,17028.3,0.6,2.0,5.8,932.9,4.0,Summary
+561320,Temporary help services,13130.8,0.6,1.8,14428.6,0.6,1.9,9.9,1298.5,5.0,Line item
+561400,Business support services,3705.8,1.6,1.6,4157.9,1.6,1.6,12.2,451.6,4.0,Summary
+561420,Telephone call centers,2125.5,2.4,1.0,2708.8,2.4,1.2,27.4,582.2,5.0,Line item
+561500,Travel arrangement and reservation services,881.0,2.0,1.0,796.6,2.0,1.0,-9.6,-83.1,4.0,Summary
+561510,Travel agencies,364.6,4.4,0.8,300.2,4.4,0.8,-17.7,-64.0,5.0,Line item
+561600,Investigation and security services,4272.3,2.4,2.2,4716.7,2.4,2.3,10.4,443.7,4.0,Summary
+561610,"Investigation, guard, and armored car services",3646.6,4.0,2.3,4012.0,4.0,2.4,10.0,365.2,5.0,Line item
+561620,Security systems services,624.6,2.7,0.9,702.3,2.7,1.0,12.4,77.5,5.0,Line item
+561700,Services to buildings and dwellings,9312.6,2.2,3.7,10457.6,2.2,3.8,12.3,1146.9,4.0,Summary
+561710,Exterminating and pest control services,455.3,5.1,1.4,481.8,5.1,1.4,5.8,26.5,5.0,Line item
+561730,Landscaping services,3042.1,2.5,2.1,3401.9,2.5,2.2,11.8,360.3,5.0,Line item
+561900,Other support services,1297.1,1.3,0.6,1368.8,1.3,0.6,5.5,70.0,4.0,Line item
+562000,Waste management and remediation services,1745.5,1.6,1.3,2006.2,1.6,1.3,14.9,260.0,3.0,Summary
+562100,Waste collection,740.8,3.2,0.5,932.5,3.2,0.6,25.9,191.2,4.0,Line item
+562200,Waste treatment and disposal,411.2,2.0,0.4,348.4,2.0,0.3,-15.3,-61.4,4.0,Line item
+562900,Remediation and other waste management services,589.4,2.1,0.9,718.4,2.1,1.0,21.9,128.4,4.0,Line item
+610000,"Educational services; state, local, and private",64077.2,0.6,13.8,68970.8,0.6,13.8,7.6,4893.8,2.0,Summary
+611000,"Educational services; state, local, and private",64077.2,0.6,13.8,68970.8,0.6,13.8,7.6,4893.8,3.0,Summary
+611100,"Elementary and secondary schools; state, local, and private",39152.3,0.9,6.5,41470.1,0.9,6.4,5.9,2316.5,4.0,Summary
+611102,Elementary and secondary schools; state,344.2,2.8,0.2,325.3,2.8,0.2,-5.5,-17.1,5.0,Line item
+611103,Elementary and secondary schools; local,34109.7,1.0,6.2,35834.3,1.0,6.0,5.1,1724.2,5.0,Line item
+611105,Elementary and secondary schools; private,4687.4,1.5,1.2,5297.7,1.5,1.3,13.0,608.7,5.0,Line item
+6112-3,"Junior colleges, colleges, universities, and professional schools; state, local, and private",21483.3,0.6,9.6,23469.9,0.6,9.6,9.2,1983.5,4.0,Summary
+611200,"Junior colleges; state, local, and private",3664.1,1.1,2.8,3821.3,1.1,2.7,4.3,155.4,5.0,Summary
+611202,Junior colleges; state,1134.7,1.5,1.2,1205.3,1.5,1.2,6.2,68.0,6.0,Line item
+611203,Junior colleges; local,2213.3,1.1,1.8,2399.5,1.1,1.8,8.4,183.6,6.0,Line item
+611205,Junior colleges; private,307.2,2.9,0.4,210.2,2.9,0.3,-31.6,-95.6,6.0,Line item
+611300,"Colleges, universities, and professional schools; state, local, and private",17820.3,0.6,8.1,19649.0,0.6,8.1,10.3,1827.5,5.0,Summary
+611302,"Colleges, universities, and professional schools; state",9472.3,0.7,4.8,10048.1,0.7,4.7,6.1,573.0,6.0,Line item
+611303,"Colleges, universities, and professional schools; local",267.4,2.2,0.4,288.0,2.2,0.4,7.7,19.7,6.0,Line item
+611305,"Colleges, universities, and professional schools; private",8036.2,0.7,4.2,9260.7,0.7,4.4,15.2,1224.7,6.0,Line item
+6114-7,"Other educational services; state, local, and private",3452.8,1.0,1.3,4040.9,1.0,1.3,17.0,590.3,4.0,Summary
+611400,"Business schools and computer and management training; state, local, and private",311.2,2.2,0.2,220.4,2.2,0.1,-29.2,-89.0,5.0,Summary
+611402,Business schools and computer and management training; state,3.6,23.9,0.0,2.5,23.8,0.0,-30.6,-1.0,6.0,Line item
+611403,Business schools and computer and management training; local,7.1,13.8,0.0,6.0,13.8,0.0,-15.5,-0.7,6.0,Line item
+611405,Business schools and computer and management training; private,294.7,2.2,0.2,207.3,2.2,0.1,-29.7,-85.9,6.0,Line item
+611500,"Technical and trade schools; state, local, and private",631.0,1.9,0.5,621.2,1.9,0.5,-1.6,-8.4,5.0,Summary
+611502,Technical and trade schools; state,66.5,4.8,0.1,52.0,4.8,0.1,-21.8,-13.4,6.0,Line item
+611503,Technical and trade schools; local,44.8,6.4,0.1,47.5,6.4,0.1,6.0,2.2,6.0,Line item
+611505,Technical and trade schools; private,516.7,2.1,0.4,520.0,2.1,0.4,0.6,2.3,6.0,Line item
+611600,"Other schools and instruction; state, local, and private",1763.5,1.7,1.1,2198.9,1.7,1.2,24.7,435.1,5.0,Summary
+611602,Other schools and instruction; state,5.5,21.7,0.0,4.4,21.7,0.0,-20.0,-1.0,6.0,Line item
+611603,Other schools and instruction; local,30.7,6.6,0.1,20.6,6.6,0.0,-32.9,-9.5,6.0,Line item
+611605,Other schools and instruction; private,1717.5,1.7,1.1,2166.7,1.7,1.2,26.2,448.4,6.0,Line item
+611700,"Educational support services; state, local, and private",721.5,1.5,0.3,972.5,1.5,0.4,34.8,251.6,5.0,Summary
+611703,Educational support services; local,113.9,3.4,0.1,141.5,3.4,0.1,24.2,27.6,6.0,Line item
+611705,Educational support services; private,595.9,1.7,0.3,814.8,1.7,0.4,36.7,218.7,6.0,Line item
+620000,Healthcare and social assistance,86909.0,0.6,16.4,104073.9,0.6,16.8,19.8,17162.0,2.0,Summary
+621000,Ambulatory healthcare services,30871.8,0.9,9.9,40389.4,0.9,10.8,30.8,9515.9,3.0,Summary
+621100,Offices of physicians,10721.3,1.1,4.5,13032.4,1.1,4.7,21.6,2311.3,4.0,Line item
+621200,Offices of dentists,4134.8,3.8,6.3,4923.2,3.9,6.4,19.1,787.3,4.0,Line item
+621300,Offices of other health practitioners,3844.1,1.6,3.7,5043.0,1.6,4.1,31.2,1198.2,4.0,Summary
+621310,Offices of chiropractors,558.4,4.6,1.0,614.8,4.6,1.0,10.1,55.9,5.0,Line item
+621320,Offices of optometrists,563.5,4.6,1.7,665.8,4.6,1.8,18.2,103.2,5.0,Line item
+621330,Offices of mental health practitioners (except physicians),382.9,3.6,0.7,469.7,3.6,0.8,22.7,86.1,5.0,Line item
+621340,"Offices of physical, occupational and speech therapists, and audiologists",1733.4,2.2,2.6,2429.7,2.2,2.9,40.2,696.7,5.0,Line item
+621390,Offices of all other health practitioners,598.9,2.1,0.8,851.7,2.1,0.9,42.2,252.5,5.0,Line item
+621400,Outpatient care centers,3816.0,1.2,1.6,5250.0,1.2,1.9,37.6,1432.9,4.0,Summary
+621420,Outpatient mental health and substance abuse centers,1039.7,2.1,0.8,1303.3,2.1,0.9,25.4,263.0,5.0,Line item
+621500,Medical and diagnostic laboratories,1214.9,2.1,1.1,1551.0,2.1,1.2,27.7,335.4,4.0,Line item
+621600,Home healthcare services,5553.1,1.6,1.2,8558.2,1.6,1.5,54.1,3005.0,4.0,Line item
+621900,Other ambulatory healthcare services,1226.2,1.6,0.9,1554.5,1.6,0.9,26.8,327.5,4.0,Summary
+621910,Ambulance services,684.0,3.5,1.3,839.4,3.5,1.3,22.7,153.8,5.0,Line item
+621990,All other ambulatory healthcare services,515.3,1.9,0.3,680.2,1.9,0.4,32.0,164.8,5.0,Line item
+622000,"Hospitals; state, local, and private",26261.7,0.8,6.3,28057.8,0.8,5.9,6.8,1794.1,3.0,Summary
+622100,"General medical and surgical hospitals; state, local, and private",23741.6,0.8,5.7,25085.1,0.8,5.3,5.7,1342.2,4.0,Summary
+622102,General medical and surgical hospitals; state,909.8,1.4,0.4,1035.4,1.4,0.4,13.8,123.9,5.0,Line item
+622103,General medical and surgical hospitals; local,2843.1,1.2,0.9,2849.5,1.2,0.8,0.2,4.7,5.0,Line item
+622105,General medical and surgical hospitals; private,19981.8,0.8,4.9,21193.6,0.8,4.6,6.1,1209.2,5.0,Line item
+622200,"Psychiatric and substance abuse hospitals; state, local, and private",1183.8,1.5,0.8,1163.0,1.5,0.7,-1.8,-18.8,4.0,Summary
+622202,Psychiatric and substance abuse hospitals; state,530.8,1.8,0.4,361.0,1.8,0.3,-32.0,-166.0,5.0,Line item
+622203,Psychiatric and substance abuse hospitals; local,12.9,10.2,0.0,14.7,10.2,0.0,14.0,1.7,5.0,Line item
+622205,Psychiatric and substance abuse hospitals; private,640.0,1.9,0.5,785.9,1.9,0.5,22.8,145.2,5.0,Line item
+622300,"Specialty (except psychiatric and substance abuse) hospitals; state, local, and private",1303.7,1.3,0.6,1768.9,1.3,0.7,35.7,464.0,4.0,Summary
+622302,Specialty (except psychiatric and substance abuse) hospitals; state,137.2,2.4,0.1,144.4,2.4,0.1,5.2,6.1,5.0,Line item
+622303,Specialty (except psychiatric and substance abuse) hospitals; local,3.4,27.2,0.0,4.3,27.2,0.0,26.5,1.1,5.0,Line item
+622305,Specialty (except psychiatric and substance abuse) hospitals; private,1163.3,1.4,0.6,1621.6,1.4,0.7,39.4,458.4,5.0,Line item
+623000,Nursing and residential care facilities,13942.1,1.2,3.0,15748.4,1.2,2.9,13.0,1806.0,3.0,Summary
+623100,Nursing care facilities (skilled nursing facilities),6880.8,1.7,2.0,6953.3,1.7,1.7,1.1,72.7,4.0,Line item
+623200,"Residential intellectual and developmental disability, mental health, and substance abuse facilities",2599.6,1.7,1.1,3113.8,1.7,1.1,19.8,514.0,4.0,Summary
+623210,Residential intellectual and developmental disability facilities,1627.0,2.1,0.6,1872.4,2.1,0.6,15.1,244.4,5.0,Line item
+623220,Residential mental health and substance abuse facilities,973.6,2.1,0.7,1244.8,2.1,0.7,27.9,269.5,5.0,Line item
+623300,Continuing care retirement communities and assisted living facilities for the elderly,3732.8,1.7,0.9,5035.9,1.7,1.1,34.9,1302.2,4.0,Line item
+623900,Other residential care facilities,707.2,2.2,0.4,620.0,2.2,0.3,-12.3,-86.2,4.0,Line item
+624000,Social assistance,15673.4,0.9,2.8,19687.7,0.9,3.0,25.6,4014.1,3.0,Summary
+624100,Individual and family services,9435.8,1.1,1.9,13083.1,1.1,2.2,38.7,3646.3,4.0,Summary
+624120,Services for the elderly and persons with disabilities,6685.3,1.4,1.2,9551.9,1.4,1.4,42.9,2867.5,5.0,Line item
+6242-3,Community and vocational rehabilitation services,2189.4,1.2,0.6,2138.0,1.2,0.6,-2.3,-51.4,4.0,Summary
+624200,"Community food and housing, and emergency and other relief services",721.6,1.6,0.3,803.6,1.6,0.3,11.4,80.2,5.0,Line item
+624300,Vocational rehabilitation services,1467.4,1.4,0.5,1333.5,1.4,0.4,-9.1,-131.0,5.0,Line item
+624400,Child day care services,4002.8,2.3,1.6,4422.2,2.3,1.6,10.5,418.5,4.0,Line item
+710000,"Arts, entertainment, and recreation",9444.1,0.9,4.1,10280.8,0.9,4.2,8.9,833.8,2.0,Summary
+711000,"Performing arts, spectator sports, and related industries",2025.9,1.2,2.0,2161.3,1.2,2.0,6.7,133.1,3.0,Summary
+711100,Performing arts companies,534.7,2.2,1.1,540.6,2.2,1.1,1.1,5.8,4.0,Summary
+711110,Theater companies and dinner theaters,285.9,2.6,0.6,298.0,2.6,0.6,4.2,10.5,5.0,Line item
+711200,Spectator sports,592.8,1.6,0.8,615.1,1.6,0.7,3.8,20.5,4.0,Line item
+7113-4,"Promoters of events, and agents and managers",641.9,1.8,0.7,727.7,1.8,0.7,13.4,84.9,4.0,Summary
+711300,"Promoters of performing arts, sports, and similar events",535.5,1.9,0.4,621.3,1.9,0.4,16.0,85.9,5.0,Line item
+711400,"Agents and managers for artists, athletes, entertainers, and other public figures",100.5,5.0,0.8,100.4,5.0,0.8,-0.1,-0.7,5.0,Line item
+711500,"Independent artists, writers, and performers",234.1,2.9,0.7,251.6,2.9,0.7,7.5,15.4,4.0,Line item
+712000,"Museums, historical sites, and similar institutions",680.9,1.4,1.0,792.2,1.4,1.1,16.3,110.6,3.0,Line item
+713000,"Amusement, gambling, and recreation industries",6913.2,1.2,2.8,7518.0,1.2,2.9,8.7,603.2,3.0,Summary
+713100,Amusement parks and arcades,861.3,2.6,0.5,920.1,2.6,0.5,6.8,58.0,4.0,Line item
+713200,Gambling industries (except casino hotels),590.2,2.4,1.5,598.3,2.4,1.5,1.4,8.0,4.0,Line item
+713900,Other amusement and recreation industries,5794.0,1.4,2.3,6369.0,1.4,2.4,9.9,573.7,4.0,Summary
+713940,Fitness and recreational sports centers,2745.4,2.0,1.4,2992.2,2.0,1.4,9.0,245.3,5.0,Line item
+720000,Accommodation and food services,60052.1,1.2,8.2,65224.1,1.2,8.1,8.6,5171.4,2.0,Summary
+721000,Accommodation,8545.2,1.2,3.0,8734.9,1.2,2.8,2.2,189.1,3.0,Summary
+721100,Traveler accommodation,8214.9,1.3,3.1,8353.5,1.3,2.9,1.7,138.6,4.0,Summary
+721120,Casino hotels,1210.9,1.7,1.4,1130.9,1.7,1.3,-6.6,-79.7,5.0,Line item
+721200,RV (recreational vehicle) parks and recreational camps,282.4,3.0,0.2,330.0,3.0,0.2,16.9,47.4,4.0,Line item
+721300,Rooming and boarding houses,52.2,6.9,0.1,55.2,6.9,0.1,5.7,2.4,4.0,Line item
+722000,Food services and drinking places,51481.0,2.1,9.6,56462.2,2.1,9.6,9.7,4980.7,3.0,Summary
+722300,Special food services,2986.9,2.6,1.0,3478.5,2.6,1.1,16.5,490.1,4.0,Line item
+722400,Drinking places (alcoholic beverages),1600.3,3.7,1.1,1478.2,3.7,1.0,-7.6,-120.7,4.0,Line item
+722500,Restaurants and other eating places,46887.1,2.7,10.4,51499.2,2.7,10.5,9.8,4611.1,4.0,Summary
+722511,Full-service restaurants,22859.2,3.3,7.2,24445.3,3.3,7.1,6.9,1585.5,5.0,Line item
+810000,Other services (except public administration),28325.1,0.6,6.3,29910.9,0.6,6.4,5.6,1581.8,2.0,Summary
+811000,Repair and maintenance,5807.5,1.3,3.4,6199.5,1.3,3.4,6.7,391.6,3.0,Summary
+811100,Automotive repair and maintenance,4267.2,2.5,3.1,4581.6,2.5,3.2,7.4,313.7,4.0,Summary
+811110,Automotive mechanical and electrical repair and maintenance,1861.6,3.3,1.1,1988.1,3.3,1.1,6.8,126.1,5.0,Line item
+811120,"Automotive body, paint, interior, and glass repair",1264.9,3.5,2.1,1326.8,3.5,2.1,4.9,62.4,5.0,Line item
+811190,Other automotive repair and maintenance,1129.9,4.6,1.3,1253.5,4.7,1.3,10.9,124.1,5.0,Line item
+811200,Electronic and precision equipment repair and maintenance,444.1,2.3,0.8,433.0,2.3,0.8,-2.5,-9.3,4.0,Line item
+811300,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,904.7,2.0,0.8,1029.1,2.0,0.9,13.8,124.4,4.0,Line item
+811400,Personal and household goods repair and maintenance,333.8,2.9,1.5,313.8,2.9,1.4,-6.0,-18.0,4.0,Line item
+812000,Personal and laundry services,6407.8,1.5,4.7,7126.3,1.5,4.8,11.2,717.1,3.0,Summary
+812100,Personal care services,3244.8,4.0,4.6,3692.6,4.0,4.7,13.8,447.3,4.0,Line item
+812200,Death care services,548.8,3.6,3.8,554.0,3.6,3.8,0.9,4.7,4.0,Line item
+812300,Drycleaning and laundry services,1288.7,3.3,1.7,1215.8,3.3,1.7,-5.7,-71.3,4.0,Line item
+812900,Other personal services,1306.7,1.9,1.1,1639.6,1.9,1.3,25.5,332.8,4.0,Line item
+813000,"Religious, grantmaking, civic, professional, and similar organizations",12680.2,0.8,3.2,13147.0,0.8,3.1,3.7,464.4,3.0,Summary
+8132-3,Grantmaking and giving services and social advocacy organizations,1702.0,1.1,0.7,1975.6,1.1,0.8,16.1,272.4,4.0,Summary
+813200,Grantmaking and giving services,757.6,1.6,0.4,916.1,1.6,0.4,20.9,157.8,5.0,Line item
+813300,Social advocacy organizations,936.1,1.3,0.5,1050.1,1.3,0.5,12.2,112.3,5.0,Line item
+8134-9,"Civic, social, professional, and similar organizations",3757.3,1.0,1.1,3669.9,1.0,1.0,-2.3,-88.7,4.0,Summary
+813400,Civic and social organizations,1714.9,1.5,0.6,1698.5,1.5,0.6,-1.0,-15.0,5.0,Line item
+813900,"Business, professional, labor, political, and similar organizations",2036.5,1.2,0.7,1965.6,1.2,0.7,-3.5,-71.5,5.0,Summary
+813930,Labor unions and similar labor organizations,521.3,3.7,0.8,454.0,3.7,0.8,-12.9,-65.8,6.0,Line item
+814000,Private households,3222.5,4.2,1.3,3205.9,4.2,1.2,-0.5,-15.7,3.0,Line item
+900000,Government,48469.7,0.5,14.0,49316.9,0.5,13.7,1.7,846.0,2.0,Summary
+910000,Federal government,12501.0,0.8,6.6,12208.2,0.8,6.3,-2.3,-293.1,3.0,Summary
+999100,"Federal government, excluding postal service",9522.3,0.8,5.8,9624.4,0.8,5.5,1.1,100.3,4.0,Line item
+999200,"State government, excluding education and hospitals",10335.1,0.7,4.0,10304.2,0.7,3.9,-0.3,-33.8,3.0,Line item
+999300,"Local government, excluding education and hospitals",25615.9,0.6,7.5,26784.4,0.6,7.5,4.6,1165.5,3.0,Line item
+TE1000,Total employment,691971.8,0.4,100.0,742915.5,0.4,100.0,7.4,50946.0,0.0,Summary
+TE1100,Self-employed workers,41845.5,0.5,9.0,45148.0,0.5,9.0,7.9,3300.7,1.0,Line item
+TE1200,Total wage and salary employment,650124.9,0.4,92.9,697767.1,0.4,92.9,7.3,47641.3,1.0,Summary
